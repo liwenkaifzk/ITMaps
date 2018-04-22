@@ -1,0 +1,23 @@
+{
+  "name": "itmaps",
+  "version": "1.0.1",
+  "description": "One IT Knowledge Point App",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Yiwen",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liwenkaifzk/ITMaps.git"
+  },
+  "bugs": {
+    "url": "https://github.com/liwenkaifzk/ITMaps/issues"
+  },
+  "homepage": "https://github.com/liwenkaifzk/ITMaps#readme"
+}
